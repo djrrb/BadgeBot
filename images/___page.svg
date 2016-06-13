@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg height="3960.0" version="1.1" width="3060.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <path d="M0.0,0.0 L3060.0,0.0 L3060.0,3420.0 L0.0,3420.0 Z M0.0,0.0 " fill="rgba(27,161,236,1.0)" stroke="none" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" transform="matrix(1,0,0,-1,0.0,3960.0)"/>
+  <path d="M0.0,0.0 L288.0,0.0 L288.0,216.0 L0.0,216.0 Z M0.0,0.0 " fill="rgba(27,161,236,1.0)" stroke="none" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" transform="matrix(5,0,0,-5,90.0,1710.0)"/>
+  <path d="M0.0,0.0 L1.0,52.5 L-1.0,100.0 L-2.0,143.5 L0.0,190.0 L44.4,189.0 L104.8,191.0 L151.2,188.0 L213.6,188.0 L262.0,190.0 L262.0,150.5 L262.0,96.0 L262.0,0.0 L203.6,-1.0 L147.2,-2.0 L98.8,-2.0 Z M0.0,0.0 " fill="rgba(254,223,53,1.0)" stroke="none" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" transform="matrix(5,0,0,-5,155.0,1645.0)"/>
+  <text fill="rgba(27,161,236,1.0)" font-family="StorkText-Regular" font-size="12" stroke="none" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" text-anchor="start" transform="matrix(5,0,0,5,155.0,1495.0)">
+    <tspan x="81.38" y="14.0">
+      Caslon Foundry
+    </tspan>
+  </text>
+  <text fill="rgba(252,15,60,1.0)" font-family="StillaSHOP-Regular" font-size="48.048048048" stroke="none" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" text-anchor="start" transform="matrix(5,0,0,5,205.0,1101.12155634)">
+    <tspan x="0.0" y="-6.5">
+      William
+    </tspan>
+  </text>
+  <text fill="rgba(252,15,60,1.0)" font-family="StillaSHOP-Regular" font-size="53.5117056856" stroke="none" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" text-anchor="start" transform="matrix(5,0,0,5,205.0,1315.03459982)">
+    <tspan x="0.0" y="-7.5">
+      Caslon
+    </tspan>
+  </text>
+  <path d="M0.0,0.0 L288.0,0.0 L288.0,216.0 L0.0,216.0 Z M0.0,0.0 " fill="rgba(27,161,236,1.0)" stroke="none" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" transform="matrix(5,0,0,-5,1530.0,1710.0)"/>
+  <path d="M0.0,0.0 L0.0,56.5 L1.0,101.0 L-1.0,133.5 L0.0,190.0 L59.5,188.0 L131.0,189.0 L201.5,188.0 L262.0,190.0 L262.0,132.5 L263.0,91.0 L262.0,0.0 L198.5,0.0 L128.0,-2.0 Z M0.0,0.0 " fill="rgba(254,223,53,1.0)" stroke="none" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" transform="matrix(5,0,0,-5,1595.0,1645.0)"/>
+  <text fill="rgba(27,161,236,1.0)" font-family="StorkText-Regular" font-size="12" stroke="none" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" text-anchor="start" transform="matrix(5,0,0,5,1595.0,1495.0)">
+    <tspan x="81.38" y="14.0">
+      Caslon Foundry
+    </tspan>
+  </text>
+  <text fill="rgba(252,15,60,1.0)" font-family="StillaSHOP-Regular" font-size="48.048048048" stroke="none" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" text-anchor="start" transform="matrix(5,0,0,5,1645.0,1101.12155634)">
+    <tspan x="0.0" y="-6.5">
+      William
+    </tspan>
+  </text>
+  <text fill="rgba(252,15,60,1.0)" font-family="StillaSHOP-Regular" font-size="53.5117056856" stroke="none" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" text-anchor="start" transform="matrix(5,0,0,5,1645.0,1315.03459982)">
+    <tspan x="0.0" y="-7.5">
+      Caslon
+    </tspan>
+  </text>
+  <path d="M-45.0,0.0 L-90.0,0.0 " fill="none" stroke="rgba(255,255,255,1.0)" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" transform="matrix(1,0,0,-1,90.0,3870.0)"/>
+  <path d="M-45.0,1080.0 L-90.0,1080.0 " fill="none" stroke="rgba(255,255,255,1.0)" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" transform="matrix(1,0,0,-1,90.0,3870.0)"/>
+  <path d="M-45.0,2160.0 L-90.0,2160.0 " fill="none" stroke="rgba(255,255,255,1.0)" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" transform="matrix(1,0,0,-1,90.0,3870.0)"/>
+  <path d="M-45.0,3240.0 L-90.0,3240.0 " fill="none" stroke="rgba(255,255,255,1.0)" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" transform="matrix(1,0,0,-1,90.0,3870.0)"/>
+  <path d="M2925.0,0.0 L3060.0,0.0 " fill="none" stroke="rgba(255,255,255,1.0)" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" transform="matrix(1,0,0,-1,90.0,3870.0)"/>
+  <path d="M2925.0,1080.0 L3060.0,1080.0 " fill="none" stroke="rgba(255,255,255,1.0)" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" transform="matrix(1,0,0,-1,90.0,3870.0)"/>
+  <path d="M2925.0,2160.0 L3060.0,2160.0 " fill="none" stroke="rgba(255,255,255,1.0)" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" transform="matrix(1,0,0,-1,90.0,3870.0)"/>
+  <path d="M2925.0,3240.0 L3060.0,3240.0 " fill="none" stroke="rgba(255,255,255,1.0)" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" transform="matrix(1,0,0,-1,90.0,3870.0)"/>
+  <path d="M0.0,-45.0 L0.0,-90.0 " fill="none" stroke="rgba(255,255,255,1.0)" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" transform="matrix(1,0,0,-1,90.0,3870.0)"/>
+  <path d="M1440.0,-45.0 L1440.0,-90.0 " fill="none" stroke="rgba(255,255,255,1.0)" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" transform="matrix(1,0,0,-1,90.0,3870.0)"/>
+  <path d="M2880.0,-45.0 L2880.0,-90.0 " fill="none" stroke="rgba(255,255,255,1.0)" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" transform="matrix(1,0,0,-1,90.0,3870.0)"/>
+  <path d="M0.0,3285.0 L0.0,3330.0 " fill="none" stroke="rgba(255,255,255,1.0)" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" transform="matrix(1,0,0,-1,90.0,3870.0)"/>
+  <path d="M1440.0,3285.0 L1440.0,3330.0 " fill="none" stroke="rgba(255,255,255,1.0)" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" transform="matrix(1,0,0,-1,90.0,3870.0)"/>
+  <path d="M2880.0,3285.0 L2880.0,3330.0 " fill="none" stroke="rgba(255,255,255,1.0)" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" transform="matrix(1,0,0,-1,90.0,3870.0)"/>
+  <path d="M0.0,0.0 L288.0,0.0 L288.0,216.0 L0.0,216.0 Z M0.0,0.0 " fill="rgba(27,161,236,1.0)" stroke="none" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" transform="matrix(5,0,0,-5,90.0,2790.0)"/>
+  <path d="M0.0,0.0 L0.0,46.5 L-2.0,88.0 L-2.0,148.5 L0.0,190.0 L72.5,190.0 L136.0,189.0 L204.5,190.0 L262.0,190.0 L262.0,149.5 L263.0,86.0 L262.0,0.0 L204.5,1.0 L123.0,-1.0 Z M0.0,0.0 " fill="rgba(254,223,53,1.0)" stroke="none" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" transform="matrix(5,0,0,-5,155.0,2725.0)"/>
+  <text fill="rgba(252,15,60,1.0)" font-family="StillaSHOP-Regular" font-size="51.4248982216" stroke="none" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" text-anchor="start" transform="matrix(5,0,0,5,205.0,2278.62040466)">
+    <tspan x="0.0" y="-7.5">
+      Claude
+    </tspan>
+  </text>
+  <text fill="rgba(252,15,60,1.0)" font-family="StillaSHOP-Regular" font-size="33.8123415046" stroke="none" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" text-anchor="start" transform="matrix(5,0,0,5,205.0,2398.51051456)">
+    <tspan x="0.0" y="-2.5">
+      Garamond
+    </tspan>
+  </text>
+  <path d="M0.0,0.0 L288.0,0.0 L288.0,216.0 L0.0,216.0 Z M0.0,0.0 " fill="rgba(27,161,236,1.0)" stroke="none" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" transform="matrix(5,0,0,-5,1530.0,2790.0)"/>
+  <path d="M0.0,0.0 L0.0,64.3333333333 L1.0,117.666666667 L0.0,190.0 L57.4,190.0 L96.8,189.0 L151.2,188.0 L204.6,190.0 L262.0,190.0 L263.0,119.666666667 L262.0,0.0 L205.6,-1.0 L158.2,-2.0 L111.8,-1.0 Z M0.0,0.0 " fill="rgba(254,223,53,1.0)" stroke="none" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" transform="matrix(5,0,0,-5,1595.0,2725.0)"/>
+  <text fill="rgba(252,15,60,1.0)" font-family="StillaSHOP-Regular" font-size="51.4248982216" stroke="none" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" text-anchor="start" transform="matrix(5,0,0,5,1645.0,2278.62040466)">
+    <tspan x="0.0" y="-7.5">
+      Claude
+    </tspan>
+  </text>
+  <text fill="rgba(252,15,60,1.0)" font-family="StillaSHOP-Regular" font-size="33.8123415046" stroke="none" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" text-anchor="start" transform="matrix(5,0,0,5,1645.0,2398.51051456)">
+    <tspan x="0.0" y="-2.5">
+      Garamond
+    </tspan>
+  </text>
+  <path d="M0.0,0.0 L288.0,0.0 L288.0,216.0 L0.0,216.0 Z M0.0,0.0 " fill="rgba(27,161,236,1.0)" stroke="none" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" transform="matrix(5,0,0,-5,90.0,3870.0)"/>
+  <path d="M0.0,0.0 L0.0,71.3333333333 L1.0,116.666666667 L0.0,190.0 L63.5,189.0 L127.0,188.0 L187.5,191.0 L262.0,190.0 L262.0,126.666666667 L262.0,0.0 L197.5,-2.0 L126.0,1.0 Z M0.0,0.0 " fill="rgba(254,223,53,1.0)" stroke="none" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" transform="matrix(5,0,0,-5,155.0,3805.0)"/>
+  <text fill="rgba(27,161,236,1.0)" font-family="StorkText-Regular" font-size="12" stroke="none" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" text-anchor="start" transform="matrix(5,0,0,5,155.0,3655.0)">
+    <tspan x="91.1" y="14.0">
+      Aldine Press
+    </tspan>
+  </text>
+  <text fill="rgba(252,15,60,1.0)" font-family="StillaSHOP-Regular" font-size="34.1054426602" stroke="none" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" text-anchor="start" transform="matrix(5,0,0,5,205.0,3201.64273868)">
+    <tspan x="0.0" y="-2.5">
+      Francesco
+    </tspan>
+  </text>
+  <text fill="rgba(252,15,60,1.0)" font-family="StillaSHOP-Regular" font-size="63.8637573177" stroke="none" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" text-anchor="start" transform="matrix(5,0,0,5,205.0,3484.19994996)">
+    <tspan x="0.0" y="-10.5">
+      Griffo
+    </tspan>
+  </text>
+  <path d="M0.0,0.0 L288.0,0.0 L288.0,216.0 L0.0,216.0 Z M0.0,0.0 " fill="rgba(27,161,236,1.0)" stroke="none" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" transform="matrix(5,0,0,-5,1530.0,3870.0)"/>
+  <path d="M0.0,0.0 L-2.0,71.3333333333 L-2.0,130.666666667 L0.0,190.0 L71.5,188.0 L125.0,191.0 L194.5,191.0 L262.0,190.0 L262.0,135.666666667 L262.0,0.0 L202.5,0.0 L126.0,-2.0 Z M0.0,0.0 " fill="rgba(254,223,53,1.0)" stroke="none" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" transform="matrix(5,0,0,-5,1595.0,3805.0)"/>
+  <text fill="rgba(27,161,236,1.0)" font-family="StorkText-Regular" font-size="12" stroke="none" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" text-anchor="start" transform="matrix(5,0,0,5,1595.0,3655.0)">
+    <tspan x="91.1" y="14.0">
+      Aldine Press
+    </tspan>
+  </text>
+  <text fill="rgba(252,15,60,1.0)" font-family="StillaSHOP-Regular" font-size="34.1054426602" stroke="none" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" text-anchor="start" transform="matrix(5,0,0,5,1645.0,3201.64273868)">
+    <tspan x="0.0" y="-2.5">
+      Francesco
+    </tspan>
+  </text>
+  <text fill="rgba(252,15,60,1.0)" font-family="StillaSHOP-Regular" font-size="63.8637573177" stroke="none" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" text-anchor="start" transform="matrix(5,0,0,5,1645.0,3484.19994996)">
+    <tspan x="0.0" y="-10.5">
+      Griffo
+    </tspan>
+  </text>
+</svg>

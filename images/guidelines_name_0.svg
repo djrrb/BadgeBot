@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg height="2160" version="1.1" width="2880" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <path d="M0.0,0.0 L288.0,0.0 L288.0,216.0 L0.0,216.0 Z M0.0,0.0 " fill="rgba(27,161,236,1.0)" stroke="none" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" transform="matrix(10,0,0,-10,0,2160)"/>
+  <path d="M0.0,0.0 L-2.0,46.5 L1.0,98.0 L-2.0,141.5 L0.0,190.0 L55.5,191.0 L130.0,189.0 L201.5,190.0 L262.0,190.0 L263.0,133.5 L263.0,95.0 L262.0,0.0 L191.5,0.0 L122.0,-2.0 Z M0.0,0.0 " fill="rgba(254,223,53,1.0)" stroke="none" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" transform="matrix(10,0,0,-10,130,2030)"/>
+  <text fill="rgba(27,161,236,1.0)" font-family="StorkText-Regular" font-size="12" stroke="none" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" text-anchor="start" transform="matrix(10,0,0,10,130,1730)">
+    <tspan x="63.17" y="14.0">
+      The Font Bureau, Inc.
+    </tspan>
+  </text>
+  <path d="M0.0,0.0 L240.0,0.0 L240.0,138.0 L0.0,138.0 Z M0.0,0.0 " fill="rgba(255,255,255,0.5)" stroke="none" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" transform="matrix(10,0,0,-10,230,1620)"/>
+  <path d="M0.0,0.0 L50.0,0.0 L50.0,-130.755390249 L0.0,-130.755390249 Z M0.0,0.0 " fill="rgba(255,0,0,0.0)" stroke="none" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" transform="matrix(10,0,0,-10,230.0,276.223048756)"/>
+  <text fill="rgba(252,15,60,1.0)" font-family="StillaSHOP-Regular" font-size="63.7450199203" stroke="none" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" text-anchor="start" transform="matrix(10,0,0,10,230.0,795.565678238)">
+    <tspan x="0.0" y="-10.5">
+      David
+    </tspan>
+  </text>
+  <path d="M0.0,0.0 L240.0,0.0 L240.0,41.4342629482 L0.0,41.4342629482 Z M0.0,0.0 " fill="none" stroke="rgba(255,255,255,0.2)" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" transform="matrix(10,0,0,-10,230.0,690.565678238)"/>
+</svg>

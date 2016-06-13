@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg height="2160" version="1.1" width="2880" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <path d="M0.0,0.0 L288.0,0.0 L288.0,216.0 L0.0,216.0 Z M0.0,0.0 " fill="rgba(27,161,236,1.0)" stroke="none" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" transform="matrix(10,0,0,-10,0,2160)"/>
+  <path d="M0.0,0.0 L0.0,46.5 L0.0,104.0 L-1.0,147.5 L0.0,190.0 L47.4,188.0 L102.8,189.0 L165.2,191.0 L204.6,189.0 L262.0,190.0 L263.0,149.5 L260.0,104.0 L262.0,0.0 L205.6,-2.0 L147.2,1.0 L111.8,-1.0 Z M0.0,0.0 " fill="rgba(254,223,53,1.0)" stroke="none" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" transform="matrix(10,0,0,-10,130,2030)"/>
+  <text fill="rgba(27,161,236,1.0)" font-family="StorkText-Regular" font-size="12" stroke="none" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" text-anchor="start" transform="matrix(10,0,0,10,130,1730)">
+    <tspan x="63.17" y="14.0">
+      The Font Bureau, Inc.
+    </tspan>
+  </text>
+  <text fill="rgba(252,15,60,1.0)" font-family="StillaSHOP-Regular" font-size="63.7450199203" stroke="none" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" text-anchor="start" transform="matrix(8.17474876485,0.0,0.0,8.17474876485,449.030148218,664.549551889)">
+    <tspan x="0.0" y="-10.5">
+      David
+    </tspan>
+  </text>
+  <text fill="rgba(252,15,60,1.0)" font-family="StillaSHOP-Regular" font-size="37.7536573856" stroke="none" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" text-anchor="start" transform="matrix(8.17474876485,0.0,0.0,8.17474876485,449.030148218,865.156883542)">
+    <tspan x="0.0" y="-3.5">
+      Jonathan
+    </tspan>
+  </text>
+  <text fill="rgba(252,15,60,1.0)" font-family="StillaSHOP-Regular" font-size="47.7802110293" stroke="none" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" text-anchor="start" transform="matrix(8.17474876485,0.0,0.0,8.17474876485,449.030148218,1200.7886649)">
+    <tspan x="0.0" y="-6.5">
+      Bodoni-
+    </tspan>
+  </text>
+  <text fill="rgba(252,15,60,1.0)" font-family="StillaSHOP-Regular" font-size="78.125" stroke="none" stroke-dasharray="none" stroke-linecap="inherit" stroke-linejoin="inherit" stroke-width="1" text-anchor="start" transform="matrix(8.17474876485,0.0,0.0,8.17474876485,449.030148218,1738.53385709)">
+    <tspan x="0.0" y="-14.5">
+      Ross
+    </tspan>
+  </text>
+</svg>
