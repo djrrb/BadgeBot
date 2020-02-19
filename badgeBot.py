@@ -20,7 +20,7 @@ has not been totally thought through. But I hope you find it useful and/or inter
 
 import string
 import random
-from csvunicode import UnicodeReader
+import csv
 import os
 
 ## VARIABLES
@@ -366,7 +366,7 @@ def readDataFromCSV(csvPath):
     """
     data = []
     with open(csvPath, 'r') as csvfile:
-        csvreader = UnicodeReader(csvfile, delimiter=',', quotechar='"')
+        csvreader = csv.reader(csvfile, delimiter=',', quotechar='"')
         for i, row in enumerate(csvreader):
             data.append(row)
     return data
