@@ -218,6 +218,7 @@ def drawName(name, boxWidth, boxHeight):
     for i, (lineText, textWidth, textHeight, pointSize, extraSpace) in enumerate(lineData):
         fillColor(textColor)
         fontSize(pointSize)        
+        lineHeight(pointSize)        
         translate(0, -textHeight)
         save()
         translate((boxWidth-textWidth)/2, 0)
